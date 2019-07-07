@@ -1,4 +1,4 @@
-# Project 2: Civic data analyses
+# EDA on SAT scores in the US by State
 
 ## Business Case
 
